@@ -1,0 +1,3 @@
+identify - https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/identify.svg
+understand - https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/understand.svg
+execute - https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/execute.svg
