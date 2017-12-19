@@ -7,11 +7,13 @@ a {
   color: Black;
   font-size: 18px;
   font-weight: bold;
+  color: White
 }
 
 h1 {
   font-size: 70px;
   font-weight: bold;
+  color: White;
 }
 
 .subheaders {
@@ -23,11 +25,24 @@ h1 {
   font-size: 14px;
 }
 
+.designedheader {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+  font-size: 23px;
+  font-weight: bold;
+  color: White;
+}
+
+.processheader {
+  font-size: 32px;
+  font-weight: bold;
+}
+
 .footer {
   font-size: 11px;
   background-color: dimgray;
   color: White;
   text-align: left;
+  font-weight: bold;
 }
 
 .image {
